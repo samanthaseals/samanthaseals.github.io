@@ -1,6 +1,8 @@
 permalink: /:categories/:title/
 baseurl: ""  # Keep this empty for user sites like samanthaseals.github.io
 
+include: _pages
+
 defaults:
   - scope:
       path: ""
@@ -9,5 +11,14 @@ defaults:
       layout: single
       author_profile: false
       
-include:
-  - _pages
+defaults:
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      permalink: /:basename/
+      layout: single      
+      
+
+  
+  
