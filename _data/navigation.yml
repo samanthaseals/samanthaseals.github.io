@@ -2,13 +2,13 @@
 
 main: 
   - title: "Dr. Samantha Seals"
-    url: /drseals/
+    url: /drseals.html
     
   - title: "CV"
-    url: /cv/  
+    url: /cv.html 
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching.html    
 
   - title: "Publications"
-    url: /presentations/  
+    url: /presentations.html 
