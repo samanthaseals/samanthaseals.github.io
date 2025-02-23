@@ -17,10 +17,10 @@ sitemap: false
 
 <center>
 <b>Samantha Seals, PhD, MS</b><br>
-<b>Associate Professor</b><br>
-<b>Department of Mathematics and Statistics</b><br>
-<b>Hal Marcus College of Science and Engineering</b><br>
-<b>University of West Florida</b>
+Associate Professor<br>
+Department of Mathematics and Statistics<br>
+Hal Marcus College of Science and Engineering<br>
+University of West Florida
 </center>
 
 <b>Courses (Spring 2025):</b>
