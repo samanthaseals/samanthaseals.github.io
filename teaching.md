@@ -29,29 +29,6 @@ author_profile: false
 </ul>
 
 
-<b>Full list:</b>
-
-<ul>
-<li>IDC6940, Capstone in Data Science</li>
-<li>STA6232/STA4231, Statistics for Data Science II</li>
-<li>STA6235, Modeling in Regression</li>
-<li>STA5176, Statistical Modeling</li>
-<li>STA6349, Applied Bayesian Analysis</li>
-<li>STA6257, Advanced Statistical Modeling</li>
-<li>STA6246, Design and Analysis of Experiments</li>
-<li>STA4234, Regression Analysis</li>
-<li>STA4222, Sampling Theory</li>
-<li>STA4173, Biostatistics</li>
-<li>STA2023, Elements of Statistics</li>
-<li>STA5015/STA4012, Data Awareness</li>
-<li>STAX905, Directed Study</li>
-<ul>
-<li>Advanced Statistical Modeling for Psychology</li>
-<li>Advanced Regression Analysis</li>
-<li>Design and Analysis of Experiments</li>
-</ul>
-
-
 
 
 
