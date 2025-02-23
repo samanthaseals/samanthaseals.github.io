@@ -21,9 +21,8 @@ Associate Professor<br>
 Department of Mathematics and Statistics<br>
 Hal Marcus College of Science and Engineering<br>
 University of West Florida <br>
-</center>
-
 <a href="http://sealslab.github.io">Seals Lab for Quantitative Science</a> | <a href="http://cgmlabuwf.github.io">Computational Geomorphology and Modeling Lab</a><br>
+</center>
 
 <b>Courses (Spring 2025):</b>
 
