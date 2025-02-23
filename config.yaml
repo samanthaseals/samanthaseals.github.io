@@ -19,6 +19,7 @@ defaults:
       permalink: /:basename/
       layout: single      
       
+minimal_mistakes_skin: "default" # Change only if using another skin      
 
   
   
