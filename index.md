@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: ""
 permalink: /
 author_profile: false
 sitemap: false
