@@ -8,29 +8,26 @@ sitemap: false
 
 <div style="flex: 25%; padding: 10px;">
 <center>
-<img src = "https://raw.githubusercontent.com/samanthaseals/samanthaseals.github.io/refs/heads/master/files/logo/me.png" width=200>
+<img src = "https://github.com/samanthaseals/samanthaseals.github.io/blob/main/files/me.png?raw=true" width=200>
 </center>
 </div>
 
 <div style="flex: 75%; padding: 1px;">
 
 <center>
-## Samantha Seals, PhD, MS
-#### Associate Professor
-#### Department of Mathematics and Statistics
-#### University of West Florida
+**Samantha Seals, PhD, MS**<br>
+**Associate Professor**<br>
+**Department of Mathematics and Statistics**<br>
+**Hal Marcus College of Science and Engineering**<br>
+**University of West Florida**
 </center>
-
-<ul>
-
-</ul>
 
 **Spring 2025 Courses:**
 
 <ul>
-  <li><a href="">STA4173 Biostatistics (MW)</a></li>
-  <li>STA4173 Biostatistics (TR)</li>
-  <li>STA6349 Applied Bayesian Analysis</li>
+  <li><a href="https://samanthaseals.github.io/STA4173Sp25MW/">STA4173 Biostatistics (MW)</a></li>
+  <li><a href="https://samanthaseals.github.io/STA4173Sp25TR/">STA4173 Biostatistics (TR)</a></li>
+  <li><a href="https://samanthaseals.github.io/STA6349/">STA6349 Applied Bayesian Analysis</a></li>
   <li>STA4012/STA5015 Data Awareness (Term 2)</li>
   <li>STA4231/STA6232 Statistics for Data Science II (Term 2)</li>
   <li>STA4231/STA6232 Statistics for Data Science II (Term 3)</li>

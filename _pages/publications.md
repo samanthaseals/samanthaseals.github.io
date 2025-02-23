@@ -1,10 +1,12 @@
 ---
+title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
 
 <ol reversed>
-<li>Schmutz PP, Briggs T&midast;, <b>Seals SR</b>. "Lagging Behind: Impact of Non-native Gravel Within a Coastal Dune System," <i>Aeolian Research</i>, accepted. &midast; indicates student co-author </li>
+<li>Varney CN, <b>Seals SR</b>, Wade A. "<a href="https://iopscience.iop.org/article/10.1088/1361-6552/adaffa">Pivoting Physics Labs Online</a>," <i>Physics Education</i>, 60(2):1--9.
+<li>Schmutz PP, Briggs T&midast;, <b>Seals SR</b>. "<a href="https://www.sciencedirect.com/science/article/abs/pii/S1875963724000685">Lagging Behind: Impact of Non-native Gravel Within a Coastal Dune System</a>," <i>Aeolian Research</i>, 72:1--9. &midast; indicates student co-author </li>
 <li>Ramey AS&midast;, Rainey VR, <b>Seals SR</b>. "<a href="https://www.emerald.com/insight/content/doi/10.1108/AIA-04-2023-0018/full/html">Home Organization and Adaptive Behavior in Children with Autism Spectrum Disorder</a>," <i>Advances in Autism</i>, 2024, 10(1), 38--49. &midast; indicates student lead author </li>
 <li>Karlson CW, Barajas KG, <b>Seals SR</b>, Britt AB, Schlenz AM, Jackson EA, Davis DB, Morris MC, Valrie CR. "<a href="https://academic.oup.com/jpepsy/advance-article-abstract/doi/10.1093/jpepsy/jsad017/7116307">Longitudinal Predictors of Pain in Pediatric Sickle Cell Disease</a>," <i>Journal of Pediatric Psychology</i>, 2023, 48(6): 553--561. PMID: "<a href="https://pubmed.ncbi.nlm.nih.gov/37043758/">37043758</a></li>
 <li>Swann L, Hall JL, Vaccaro-Garska K, <b>Seals SR</b>, Benz P. "<a href="https://www.nsta.org/journal-college-science-teaching/journal-college-science-teaching-fall-2023/development-and">Development and Implementation of an Undergraduate STEM Peer Coaching Program</i></a>," <i>Journal of College Science Teaching</i>, 2023, 52(7): 43--49. &midast; Article was featured by the National Science Teaching Association. </li>
