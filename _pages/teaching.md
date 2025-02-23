@@ -47,7 +47,6 @@ author_profile: false
 <li>Advanced Statistical Modeling for Psychology</li>
 <li>Advanced Regression Analysis</li>
 <li>Design and Analysis of Experiments</li>
-<li>Statistical Modeling in MATLAB</li>
 </ul>
 
 

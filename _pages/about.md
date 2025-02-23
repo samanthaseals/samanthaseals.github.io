@@ -21,35 +21,20 @@ sitemap: false
 #### University of West Florida
 </center>
 
-**Ongoing Courses:**
-
-<!--
 <ul>
-  <li>[STA4012/STA5015 Data Awareness]()</li>
-  <li>[STA4231/STA6232 Statistics for Data Science II]()</li>
-</ul>
--->
 
-<ul>
-  <li>STA4012/STA5015 Data Awareness</li>
-  <li>STA4231/STA6232 Statistics for Data Science II</li>
 </ul>
 
 **Spring 2025 Courses:**
 
 <ul>
-  <li>STA4173 Biostatistics (MW)</li>
+  <li><a href="">STA4173 Biostatistics (MW)</a></li>
   <li>STA4173 Biostatistics (TR)</li>
   <li>STA6349 Applied Bayesian Analysis</li>
+  <li>STA4012/STA5015 Data Awareness (Term 2)</li>
+  <li>STA4231/STA6232 Statistics for Data Science II (Term 2)</li>
+  <li>STA4231/STA6232 Statistics for Data Science II (Term 3)</li>
 </ul>
-
-<!--
-<ul>
-  <li>[STA4173 Biostatistics (MW)](http://samanthaseals.github.io/STA4173Sp25MW)</li>
-  <li>[STA4173 Biostatistics (TR)](http://samanthaseals.github.io/STA4173Sp25TR)</li>
-  <li>[STA6349 Applied Bayesian Analysis](http://samanthaseals.github.io/STA6349Sp25)</li>
-</ul>
--->
 
 **Office Hours Spring 2025:**
 
