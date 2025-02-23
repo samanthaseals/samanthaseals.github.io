@@ -64,4 +64,4 @@ author_profile: false
 <li>George B, <b>Seals SR</b>, Aban I. "<a href="https://link.springer.com/article/10.1007/s12350-014-9908-2">Survival Analysis and Regression Models</a>," <i>Journal of Nuclear Cardiology</i>, 2014, 21(4): 686-694. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/24810431/">24810431</a></li>
 <li>Wetta LA, Szychowski JM, <b>Seals SR</b>, Mancuso M, Hauth J, Tita AT. "<a href="https://www.sciencedirect.com/science/article/pii/S0002937813002688?via%3Dihub">Risk Factors for Uterine Atony or Postpartum Hemorrhage Requiring Treatment after Vaginal Delivery</a>," <i>American Journal of Obstetrics and Gynecology</i>, 2013, 209(1): 51.e1-51.e6. <a href="https://pubmed.ncbi.nlm.nih.gov/23507549/">23507549</a></li>
 <li>Albright KC, Boehme AK, Hicks W, <b>Seals SR</b>, Bursaw W, Mullen MT, Grotta JC, Savitz SI. "<a href="https://www.ahajournals.org/doi/10.1161/STROKEAHA.111.666156">Changing Demographics at a Comprehensive Stroke Center amidst the Rise in Primary Stroke Centers</a>," <i>Stroke</i>, 2013, 44(4): 1117-1123. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/23412378/">23412378</a></li>
-</ol>
+</ol reversed>
