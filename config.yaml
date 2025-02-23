@@ -3,3 +3,8 @@ languageCode: "en-us"
 title: "Samantha Seals, PhD"
 theme: "my-theme"
 navigation: _data/navigation.yml
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
