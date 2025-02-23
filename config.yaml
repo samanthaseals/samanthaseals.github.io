@@ -8,3 +8,6 @@ defaults:
     values:
       layout: single
       author_profile: false
+      
+include:
+  - _pages
