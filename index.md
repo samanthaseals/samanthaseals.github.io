@@ -20,9 +20,11 @@ sitemap: false
 Associate Professor<br>
 Department of Mathematics and Statistics<br>
 Hal Marcus College of Science and Engineering<br>
-University of West Florida <br>
-<a href="http://sealslab.github.io">Seals Lab for Quantitative Science</a> | <a href="http://cgmlabuwf.github.io">Computational Geomorphology and Modeling Lab</a><br>
+University of West Florida 
 </center>
+<br><br>
+
+A Pensacola native and UWF alumna (BS '06, MS '08), Dr. Seals is the director of the <a href="http://sealslab.github.io">Seals Lab for Quantitative Science</a> and co-director of the <a href="http://cgmlabuwf.github.io">Computational Geomorphology and Modeling Lab</a>. Dr. Seals earned a PhD in Biostatistics from the University of Alabama at Birmingham in 2013 and rejoined UWF's Department of Mathematics and Statistics as faculty in 2016. <br><br>
 
 <b>Courses (Spring 2025):</b>
 
@@ -33,14 +35,5 @@ University of West Florida <br>
   <li>STA4012/STA5015 Data Awareness (Term 2)</li>
   <li>STA4231/STA6232 Statistics for Data Science II (Term 2)</li>
   <li>STA4231/STA6232 Statistics for Data Science II (Term 3)</li>
-</ul>
-
-
-<b>Office Hours (Spring 2025):</b>
-
-<ul>
-  <li>Monday: 2:30 pm - 4:30 pm</li>
-  <li>Wednesday: 2:30 pm - 4:30 pm</li>
-  <li>Thursday: 10:00 am - 12:00 pm</li>
 </ul>
 
