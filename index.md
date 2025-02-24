@@ -13,7 +13,7 @@ sitemap: false
 </center>
 </div>
 
-<div style="flex: 75%; padding: 1px;">
+<div style="flex: 75%; padding: 10px;">
 
 <center>
 <b>Samantha Seals, PhD, MS</b><br>
