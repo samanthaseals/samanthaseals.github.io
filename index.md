@@ -13,7 +13,7 @@ sitemap: false
 </center>
 </div>
 
-<div style="flex: 75%; padding: 10px;">
+<div style="flex: 55%; padding: 10px;">
 
 <center>
 <b>Samantha Seals, PhD, MS</b><br>
@@ -29,9 +29,10 @@ A Pensacola native and UWF alumna (BS '06, MS '08), Dr. Seals is the director of
 <b>Courses (Spring 2025):</b>
 
 <ul>
+  <li>STA2023 Elements of Statistics</li>
   <li><a href="https://samanthaseals.github.io/STA4173Sp25MW/">STA4173 Biostatistics (MW)</a></li>
   <li><a href="https://samanthaseals.github.io/STA4173Sp25TR/">STA4173 Biostatistics (TR)</a></li>
-  <li><a href="https://samanthaseals.github.io/STA6349/">STA6349 Applied Bayesian Analysis</a></li>
+  <li><a href="https://samanthaseals.github.io/STA6349Sp25/">STA6349 Applied Bayesian Analysis</a></li>
   <li>STA4012/STA5015 Data Awareness (Term 2)</li>
   <li>STA4231/STA6232 Statistics for Data Science II (Term 2)</li>
   <li>STA4231/STA6232 Statistics for Data Science II (Term 3)</li>
