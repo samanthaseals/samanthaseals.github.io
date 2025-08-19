@@ -1,0 +1,101 @@
+/*-- scss:rules --*/
+
+/* Colors */
+$bg-pastel: #F3E8FF;   /* very light lavender */
+$text-dark: #5d3f8f;   /* deep purple */
+$accent:    #5B21B6;   /* accent purple */
+$link:      #3B0764;   /* link purple */
+$link-hover:#6D28D9;   /* hover */
+
+html, body {
+  background-color: $bg-pastel !important;
+  color: $text-dark !important;
+}
+
+/* Body text */
+body, p, li, td, th {
+  color: $text-dark;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: $text-dark;
+  font-weight: 700;
+}
+
+/* Links */
+a, a:visited {
+  color: $link;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(76, 29, 149, 0.25);
+}
+a:hover, a:focus {
+  color: $link-hover;
+  border-bottom-color: rgba(109, 40, 217, 0.5);
+}
+
+/* Navbar (Quarto adds classes) */
+.navbar, .navbar-dark, .navbar-light {
+  background-color: $text-dark !important;
+}
+.navbar a, .navbar-brand, .navbar-nav .nav-link {
+  color: #F3E8FF !important;
+}
+
+/* Sidebar / TOC accents */
+.sidebar, .quarto-sidebar-toc, .toc-active .nav-link {
+  color: $text-dark;
+}
+.toc .nav-link.active {
+  color: $accent !important;
+}
+
+/* Buttons & code accents */
+.btn-primary {
+  background-color: $accent;
+  border-color: $accent;
+}
+.btn-primary:hover {
+  filter: brightness(1.05);
+}
+code, pre {
+  color: $text-dark;
+  background: rgba(59, 7, 100, 0.04);
+}
+
+/* About section layout */
+.about-container {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 2rem;
+  flex-wrap: wrap; /* so it stacks on small screens */
+}
+
+/* Photo styling */
+.about-photo img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%; /* makes it a perfect oval/circle */
+  border: 4px solid $accent; /* accent purple border */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Text styling */
+.about-text {
+  max-width: 600px;
+}
+.about-text h2 {
+  margin-top: 0;
+}
+
+/* About photo: circular/oval frame on the image itself */
+img.about-photo {
+  width: 300px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 60%;       /* perfect circle; for an oval try: 50% / 40% */
+  border: 4px solid $accent;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}

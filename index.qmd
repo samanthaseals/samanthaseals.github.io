@@ -1,0 +1,29 @@
+::: {.columns .about-container}
+::: {.column width = "10%"}
+:::
+
+::: {.column width="30%"}
+![](files/me.png){.about-photo}
+:::
+
+::: {.column width = "10%"}
+:::
+
+::: {.column width="40%"}
+### Dr. Samantha Seals
+*Associate Professor*  
+Department of Mathematics and Statistics  
+University of West Florida
+
+
+
+::: {.column width = "10%"}
+:::
+
+**Fall 2025**
+
+- [STA4173: Biostatistics](http://samanthaseals.github.io/STA4173Fa25)
+- [STA6349: Applied Bayesian Analysis](http://samanthaseals.github.io/STA6349Fa25)
+- STA4231/STA6232: Statistics for Data Science II
+:::
+:::
