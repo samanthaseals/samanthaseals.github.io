@@ -1,0 +1,82 @@
+::: {.columns}
+
+::: {.column width="20%"}
+
+:::
+
+::: {.column width="60%"}
+I am the director of the [Seals Lab for Quantitative Science](http://sealslab.github.io) and co-director of the [Computational Geomorphology & Modeling Lab](http://cgmlabuwf.github.io) at the University of West Florida. 
+
+I am an applied statistician (formally trained in biostatistics) and am happy to collaborate with others that need statistical support. Please see either lab website for more information about collaborating with me and/or my students.
+
+Selected projects from each lab:
+:::
+
+::: {.column width="20%"}
+
+:::
+
+:::
+
+::: {.columns}
+
+::: {.column width="7.5%"}
+
+:::
+
+::: {.column width="40%"}
+
+<u>[Seals Lab for Quantitative Science](http://sealslab.github.io)</u>
+
+- Hunter Evans, Fall 2024. *Violating the Assumption: A Comparative Analysis of Poisson and Negative Binomial Regressions*.
+
+- Grady Wright, Fall 2023. *Financial Discipline and Negotiation Behaviors of Couples: An Application of Multinomial Logistic Regression*.
+
+- Kristina Diaz-Kerkado, Spring 2023. *Shelter Animal Outcomes in the United States: An Application of Negative Binomial Regression*.
+
+- Alyssa Selvey, Spring 2021. *A Longitudinal Analysis of Waterfowl Abundance in Escambia, Santa Rosa, and Baldwin Counties*.
+
+- Chad Michael Eyer, Summer 2020. *Using R Markdown to Create Accessible Resources for Students with Visual Disabilities in STEM Classes*.
+
+- Amber Weydert, Fall 2019. *Finite Sample Properties of an Exponential-Compound Symmetric Covariance Structure*.
+
+- Jennifer Ganowsky, Spring 2019. *The Effect of Growth Mindset & Metacognition Strategies in Developmental Math Courses*. 
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="40%"}
+
+<u> [Computational Geomorphology & Modeling Lab](http://cgmlabuwf.github.io)</u>
+
+- Angelina Scamardo, Summer 2025. *From the Sea to Statistics: Using Machine Learning to Predict Sea Turtle Nesting Patterns*.
+
+- Cheyenne Long, Fall 2024. *Modeling Loggerhead Nesting Patterns: How Many Pseudo-Absence Points are Necessary?*
+
+- Rachel Ledford, Spring 2024. *Profiling Pensacola Beach: One Field Trip for Multiple Lesson Plans*.
+
+- Aidan Jensen, Spring 2024. *An Exploration of Presence and Pseudo-Absence Data in the Analysis of Loggerhead Sea Turtle Nesting Behavior in the Florida Panhandle*.
+
+- Jordan Iserman, Spring 2022. *Beach Morphology Characteristics of Sea Turtle Nesting Sites: A Statistical Analysis*. 
+
+- Kirt Wilson, Summer 2020. *A Statistical Analysis of Different Types of UAVs Over Northwest Florida Environments*. 
+
+- Tyler Watson, Summer 2019. *A Statistical Analysis of Coastal Beach Morphology by Citizen Scientists*. 
+
+- Daniel Moulder, Fall 2018. *Estimating Sea Oat Coverage at Pensacola Beach: An Application of Adaptive Cluster Sampling*.
+
+:::
+
+::: {.column width="7.5%"}
+
+:::
+
+:::
+
+
+
+
+

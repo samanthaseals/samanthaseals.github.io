@@ -1,0 +1,50 @@
+::: {.columns}
+
+:::
+
+::: {.columns}
+
+::: {.column width="20%"}
+
+:::
+
+::: {.column width="60%"}
+**Fall 2025:**
+
+- [STA4173: Biostatistics](http://samanthaseals.github.io/STA4173Fa25)
+- [STA6349: Applied Bayesian Analysis](http://samanthaseals.github.io/STA6349Fa25)
+- STA4231/STA6232: Statistics for Data Science II
+
+**Summer 2025:**
+
+- [STA4173: Biostatistics](http://samanthaseals.github.io/STA4173Su25)
+- [STA6349: Applied Bayesian Analysis](http://samanthaseals.github.io/STA6349Su25)
+- STA4231/STA6232: Statistics for Data Science II
+
+**Spring 2025:**
+
+- STA2023: Elements of Statistics
+- STA4173: Biostatistics
+- STA6349: Applied Bayesian Analysis
+- STA4012/STA5015: Data Awareness
+- STA4231/STA6232: Statistics for Data Science II
+
+**Fall 2024:**
+
+- STA6235: Modeling in Regression
+- STA6349: Applied Bayesian Analysis
+- [IDC6940: Capstone in Data Science](https://capstone4ds.github.io/)
+- STA4012/STA5015: Data Awareness
+- STA4231/STA6232: Statistics for Data Science II
+:::
+
+::: {.column width="20%"}
+
+:::
+
+
+
+:::
+
+
+
